@@ -13,4 +13,10 @@ NBFCs have started taking pro-active measures to ensure this is curbed; and this
 Participants are free to use any openly available data source to further enrich the dataset.
 
 # Results - 
-99.90 ROC-AUC score on public leaderboard
+99.93 ROC-AUC score on public leaderboard
+
+# Problem Statement 2
+To predict short term (intraday) price movement of various stocks on the basis of its price and combination of multiple features provided.
+
+# Results
+8086399.21659 return value
