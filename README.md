@@ -20,3 +20,6 @@ To predict short term (intraday) price movement of various stocks on the basis o
 
 # Results
 8086399.21659 return value
+
+# Final Result
+Got 1st position on the leaderboard.
